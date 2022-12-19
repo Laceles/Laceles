@@ -1,7 +1,7 @@
-### Olá Devs! 👋
-## Podem me chamar de Rodolfo Lima 
+## Olá Devs! 👋
+### Podem me chamar de Rodolfo Lima 
 
-** Fiquei a vontade para me conhecer mais. 
+### Fiquei a vontade para me conhecer mais. 
 
 - 👊 Atualmente estou totalmente focado em entender como resolver problemas usando dados e machine learning.
 - 🌱 Buscando oportunidades para crescer como profissional em análise/ciência de dados.
@@ -20,7 +20,6 @@
 <div>
 <a hrefhttps://www.linkedin.com/in/rodolfo-lima-datascientist/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-_blank"></a>
 
 <div>
 <a href="https://github.com/Laceles">
