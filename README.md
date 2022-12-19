@@ -1,6 +1,6 @@
 ### Olá Devs! 👋
 ## Podem me chamar de Rodolfo Lima 
-<!--
+
 ** Fiquei a vontade para me conhecer mais. 
 
 - 👊 Atualmente estou totalmente focado em entender como resolver problemas usando dados e machine learning.
@@ -29,4 +29,3 @@ _blank"></a>
 </div>
 
 ![Snake animation](https://github.com/Laceles/Laceles/blob/output/github-contribution-grid-snake.svg)
--->
