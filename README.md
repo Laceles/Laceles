@@ -1,16 +1,16 @@
 ## Olá Devs! 👋
 ### Podem me chamar de Rodolfo Lima 
 
-### Fiquei a vontade para me conhecer mais. 
+### Fiquem a vontade para me conhecer mais. 
 
 - 👊 Atualmente estou totalmente focado em entender como resolver problemas usando dados e machine learning.
 - 🌱 Buscando oportunidades para crescer como profissional em análise/ciência de dados.
 - 💼 Pesquisador, tradutor, professor & Dev.
 - 🔍 Procurando pessoas, lugares e situações que possam me adicionar como profissional.
 - 💻 Experiência com pesquisa acadêmica, estatística, escrita, algorítimos e IA.
-- 📫 Como me encontra? rodolfo.eli.jrles@gmail.com
-- 📰 Quer tirar qualquer dúvida? Só falar.
-- ⚡ Fun fact: ...
+- 📫 Como me encontrar? rodolfo.eli.jrles@gmail.com
+- 📰 Quer tirar uma dúvida? Só falar.
+- ⚡ Fun fact: Durante o bate papo eu falo.
 
 ## Ferramentas 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
