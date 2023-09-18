@@ -7,7 +7,7 @@
 - 🌱 Buscando oportunidades para crescer como profissional em análise/ciência de dados.
 - 💼 Pesquisador, tradutor, professor & Dev.
 - 🔍 Procurando pessoas, lugares e situações que possam me adicionar como profissional.
-- 💻 Experiência com pesquisa acadêmica, estatística, escrita, algorítimos e IA.
+- 💻 Experiência com pesquisa acadêmica, estatística, escrita, algoritmos e IA.
 - 📫 Como me contatar? rodolfo.eli.jrles@gmail.com
 - 📰 Quer tirar uma dúvida? Só falar.
 - ⚡ Fun fact: Durante o bate papo eu falo.
