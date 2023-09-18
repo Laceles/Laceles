@@ -1,4 +1,4 @@
-## Olá Devs! 👋
+## Olá, Devs! 👋
 ### Podem me chamar de Rodolfo Lima 
 
 ### Fiquem a vontade para me conhecer mais. 
